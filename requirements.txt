@@ -1,0 +1,14 @@
+streamlit
+opencv-python-headless
+numpy
+face-recognition
+mysql-connector-python
+gTTS
+SpeechRecognition
+streamlit-mic-recorder
+pyttsx3
+pyfiglet
+termcolor
+python-dotenv
+protobuf
+dlib==19.24.2  # <-- Versión con wheels precompilados
